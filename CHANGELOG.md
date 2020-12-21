@@ -8,9 +8,6 @@
 <li>Alineado los logos de las marcas en la parte inferior de la pagina web</li>
 <li>Arreglado el BannerCMS con una sola linea grafica de imagenes </li>
 <li>Arreglado el logo de cabezera de la pagina por uno mas nitido</li>
-<li></li>
-<li></li>
-<li></li>
 </ul>
 <h3>Problemas conocidos</h3>
 <ul>
