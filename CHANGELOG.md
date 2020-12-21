@@ -9,7 +9,8 @@
 <li>Arreglado el BannerCMS con una sola linea grafica de imagenes</li>
 <li>Arreglado el logo de cabezera de la pagina por uno mas nitido</li>
 <li>A&ntilde;adido mas productos</li>
-<li>Titulo las bodegas y vinos del Menu ahora estan en Negrita(Bold)</li>
+<li>#6755 Titulo las bodegas y vinos del Menu ahora estan en Negrita(Bold)</li>
+<li>#6790 Tamaño de las letras del menu aumentadas a Letra 15</li>
 </ul>
 <h3>Problemas conocidos</h3>
 <ul>
@@ -24,7 +25,7 @@
 <h3>Fecha del cambio: 19/12/2020</h3>
 <ul>
 <li>A&ntilde;adida las cepas y la distribuccion de los tipo de vino conforme al catalogo 2020</li>
-<li>Menu principal tama&ntilde;o de la letra fue aumentada a 20.</li>
+<li>#12230 Menu principal tama&ntilde;o de la letra fue aumentada a 20.</li>
 <li>En el banner publicitario se ha modificado el orden de los vinos</li>
 <li>Se elimino la palabra "productos en tendencia"</li>
 <li>Se elimino el titulo de las marcas en la parte inferior</li>
