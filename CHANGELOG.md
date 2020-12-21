@@ -6,16 +6,16 @@
 <h3>Fecha del cambio: 21/12/2020</h3>
 <ul>
 <li>Alineado los logos de las marcas en la parte inferior de la pagina web</li>
-<li></li>
-<li></li>
+<li>Arreglado el BannerCMS con una sola linea grafica de imagenes </li>
+<li>Arreglado el logo de cabezera de la pagina por uno mas nitido</li>
 <li></li>
 <li></li>
 <li></li>
 </ul>
 <h3>Problemas conocidos</h3>
 <ul>
-<li></li>
-<li></li>
+<li>Verificar accion de Lupa en el catalogo</li>
+<li>Hacer centrado los logos</li>
 </ul>
 <h2><span style="color: #ff0000;">Version 0.1.5</span></h2>
 <h3>Fecha del cambio: 19/12/2020</h3>
@@ -32,6 +32,7 @@
 <li>Alinear los logos de las marcas en la parte superior y tratar de hacerlos centrados</li>
 <li>Verificar accion de Lupa en el catalogo</li>
 <li>BannerCMS arreglar imagen de la bodega piedra negra Chacayes</li>
+<li>Logo de XtremeBlue en la parte superior de la pagina se ve en baja calidad</li>
 </ul>
 <p>&nbsp;</p>
 <h2><span style="color: #ff0000;">Version 0.1.4</span></h2>
