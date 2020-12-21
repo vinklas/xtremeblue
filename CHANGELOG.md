@@ -9,6 +9,7 @@
 <li>Arreglado el BannerCMS con una sola linea grafica de imagenes</li>
 <li>Arreglado el logo de cabezera de la pagina por uno mas nitido</li>
 <li>A&ntilde;adido mas productos</li>
+<li>Titulo las bodegas y vinos del Menu ahora estan en Negrita(Bold)</li>
 </ul>
 <h3>Problemas conocidos</h3>
 <ul>
