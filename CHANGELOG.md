@@ -15,6 +15,8 @@
 <li>Verificar accion de Lupa en el catalogo</li>
 <li>Hacer centrado los logos</li>
 <li>Registrar la empresa en Culqi</li>
+<li>Descripcion a cada tipo de vino para el catalogo de la web</li>
+<li>Descripcion de los vinos del catalogo</li>
 </ul>
 <h2><span style="color: #ff0000;">Version 0.1.5</span></h2>
 <h3>Fecha del cambio: 19/12/2020</h3>
@@ -33,6 +35,8 @@
 <li>BannerCMS arreglar imagen de la bodega piedra negra Chacayes</li>
 <li>Logo de XtremeBlue en la parte superior de la pagina se ve en baja calidad</li>
 <li>Registrar la empresa en Culqi</li>
+<li>Descripcion a cada tipo de vino para el catalogo de la web</li>
+<li>Descripcion de los vinos del catalogo</li>
 </ul>
 <p>&nbsp;</p>
 <h2><span style="color: #ff0000;">Version 0.1.4</span></h2>
