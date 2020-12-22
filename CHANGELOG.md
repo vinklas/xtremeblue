@@ -15,7 +15,6 @@
 </ul>
 <h3>Problemas conocidos</h3>
 <ul>
-<li>Verificar accion de Lupa en el catalogo</li>
 <li>Hacer centrado los logos</li>
 <li>Registrar la empresa en Culqi</li>
 <li>Descripcion a cada tipo de vino para el catalogo de la web</li>
