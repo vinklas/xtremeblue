@@ -11,6 +11,7 @@
 <li>A&ntilde;adido mas productos</li>
 <li>#6755 Titulo las bodegas y vinos del Menu ahora estan en Negrita(Bold)</li>
 <li>#6790 Tamaño de las letras del menu aumentadas a Letra 15</li>
+<li>Añadido modulo ElevateZoom para poder hacerle zoom a los productos</li>
 </ul>
 <h3>Problemas conocidos</h3>
 <ul>
