@@ -2,6 +2,49 @@
 <div id="content">
 <h1>Change Log</h1>
 <p>&nbsp;</p>
+<h2><span style="color: #ff0000;">Version 0.1.7</span></h2>
+<h3>Fecha del cambio: 28/12/2020</h3>
+<ul>
+<li>Modificado el de Product-Cover (14492)&nbsp;
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>.product-cover {<br />margin-bottom: 1.25rem;<br />position: relative;<br />float: left;<br />width: 100%;<br />text-align:center;</li>
+</ul>
+</li>
+<li>Hacia&nbsp;
+<ul>
+<li>.product-cover {<br />position: relative;<br />float: right;<br />width: 75%;<br />text-align:center;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Modificado el tama&ntilde;o de la letra de producto hacia letra 40 (9704)
+<ul>
+<li>.product-price {<br />color: #333333;<br />font-size: 40px;<br />font-weight: normal;<br />display: inline-block;</li>
+</ul>
+</li>
+<li>modificado el ttproduct-tittle (12551) letra 26 y en negrita (bold)
+<ul>
+<li>.tt-producttitle {<br />border-bottom: 1px solid #e5e5e5;<br />color: #222222;<br />font-family: Poppins;<br />font-size: 26px;<br />font-weight: bold;<br />line-height: 26px;<br />margin: 0 auto 10px;<br />padding: 0 0 10px;<br />position: relative;<br />text-align: left;<br />text-transform: capitalize;</li>
+</ul>
+</li>
+<li>Modificada la Linea (8454) para poner letra de los precios en negro
+<ul>
+<li>color: #000000;</li>
+</ul>
+</li>
+<li>&nbsp;</li>
+</ul>
+<h3>Problemas conocidos</h3>
+<ul>
+<li>Hacer centrado los logos</li>
+<li>Registrar la empresa en Culqi</li>
+<li>Descripcion a cada tipo de vino para el catalogo de la web</li>
+<li>Descripcion de los vinos del catalogo</li>
+</ul>
+<h1>Change Log</h1>
+<p>&nbsp;</p>
 <h2><span style="color: #ff0000;">Version 0.1.6</span></h2>
 <h3>Fecha del cambio: 21/12/2020</h3>
 <ul>
@@ -10,8 +53,8 @@
 <li>Arreglado el logo de cabezera de la pagina por uno mas nitido</li>
 <li>A&ntilde;adido mas productos</li>
 <li>#6755 Titulo las bodegas y vinos del Menu ahora estan en Negrita(Bold)</li>
-<li>#6790 Tamaño de las letras del menu aumentadas a Letra 15</li>
-<li>Añadido modulo ElevateZoom para poder hacerle zoom a los productos</li>
+<li>#6790 Tama&ntilde;o de las letras del menu aumentadas a Letra 15</li>
+<li>A&ntilde;adido modulo ElevateZoom para poder hacerle zoom a los productos</li>
 <li>Instalado el Modulo de MailChimps</li>
 <li>Isntalado modulo de WhatsApp (aun en prueba)</li>
 </ul>
