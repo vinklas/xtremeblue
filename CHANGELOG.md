@@ -95,11 +95,15 @@
 </li>
 </ul>
 </li>
+<ul>
 <li>El menu de subcategoria de la parte derecha ahora solo muestra las categorias de la seccion que te encuentres presente&nbsp;</li>
 <li>Eliminado el texto de subcategoria</li>
-<li>La seccion de Hacienda Araucano ha sido reconstruida (No es oficial)</li>
+<li>La seccion de Hacienda Araucano ha sido reconstruida (No es oficial)
+<ul>
+<li>http://shop.xtreme-blue.com/16-hacienda-araucano</li>
 </ul>
-</div>
+</li>
+</ul>
 <h2><span style="color: #ff0000;">Version 0.1.8</span></h2>
 <h3>Fecha del cambio: 04/01/2021</h3>
 <ul>
