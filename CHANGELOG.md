@@ -109,6 +109,7 @@
 <li>Registrar la empresa en Culqi</li>
 <li>Descripcion a cada tipo de vino para el catalogo de la web</li>
 <li>Descripcion de los vinos del catalogo</li>
+<li>Imagen de la parte inferior cambiarla</li>
 <ul>
 <li style="list-style-type: none;">&nbsp;</li>
 </ul>
@@ -137,7 +138,6 @@
 <li>Registrar la empresa en Culqi</li>
 <li>Descripcion a cada tipo de vino para el catalogo de la web</li>
 <li>Descripcion de los vinos del catalogo</li>
-<li>Imagen de la parte inferior cambiarla</li>
 	
 <ul>
 <li style="list-style-type: none;">&nbsp;</li>
