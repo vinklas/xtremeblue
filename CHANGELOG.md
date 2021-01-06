@@ -32,6 +32,52 @@
 </li>
 </ul>
 </li>
+<li>Modificado li.product-flag (10163)
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>li.product-flag {<br />display: block;<br />position: absolute;<br />z-index: 1;<br />left: 15px;</li>
+</ul>
+</li>
+<li>Hacia
+<ul>
+<li>li.product-flag {<br />display: block;<br />position: absolute;<br />z-index: 1;<br />left: 1px;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Modificado li.product-flag.new (10184)
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>color: #000000;<br />left: 15px;<br />margin: 0;<br />text-align: center;<br />top: 10px !important;</li>
+</ul>
+</li>
+<li>Hacia<br />
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>color: #000000;<br />left: 1px;<br />margin: 0;<br />text-align: center;<br />top: 10px !important;</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Editado la opacidad de los logos del carrusel de logos .brands #ttbrandlogo-carousel li .brand-image img&nbsp; (15104)
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>-webkit-opacity: 0.6;</li>
+</ul>
+</li>
+<li>Hacia
+<ul>
+<li>-webkit-opacity: 0.9;</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 <h2><span style="color: #ff0000;">Version 0.1.8</span></h2>
 <h3>Fecha del cambio: 04/01/2021</h3>
