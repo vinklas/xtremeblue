@@ -1,11 +1,63 @@
 <!-- START CONTENT -->
 <div id="content">
 <h1>Change Log</h1>
-<p>&nbsp;</p>
+<h2><span style="color: #ff0000;">Version 0.1.9</span></h2>
+<h3>Fecha del cambio: 06/01/2021</h3>
+<ul>
+<li>Modificado el .topmenu ul li .top-menu &gt; li &gt; a.dropdown-submenu (6755), Letra de los titulos del Menu estan en Mayuscula
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>color: #888 !important;</li>
+</ul>
+</li>
+<li>Hacia
+<ul>
+<li>color: #000 !important;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Modificado el .top-menu { (15312), Ahora el menu se muestra hacia abajo totalmente
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>display: inline-block</li>
+</ul>
+</li>
+<li>Hacia
+<ul>
+<li>display: inline-table</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span style="color: #ff0000;">Version 0.1.8</span></h2>
+<h3>Fecha del cambio: 04/01/2021</h3>
+<ul>
+<li>Modificado el .top-menu .sub-menu (6711), arreglando el distanciamiento del menu&nbsp;
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>.top: 95px !important</li>
+</ul>
+</li>
+<li>Hacia&nbsp;
+<ul>
+<li>&nbsp;top: 88px !important</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">&nbsp;</li>
+</ul>
+</li>
+</ul>
 <h2><span style="color: #ff0000;">Version 0.1.7</span></h2>
 <h3>Fecha del cambio: 28/12/2020</h3>
 <ul>
-<li>Modificado el de Product-Cover (14492)&nbsp;
+<li>Modificado el de Product-Cover (14492) Muestra del producto puesta&nbsp;
 <ul>
 <li style="list-style-type: none;">
 <ul>
