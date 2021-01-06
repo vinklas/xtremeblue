@@ -53,13 +53,10 @@
 <li>color: #000000;<br />left: 15px;<br />margin: 0;<br />text-align: center;<br />top: 10px !important;</li>
 </ul>
 </li>
-<li>Hacia<br />
-<ul>
-<li style="list-style-type: none;">
+<li style="list-style-type: none;">&nbsp;</li>
+<li>Hacia
 <ul>
 <li>color: #000000;<br />left: 1px;<br />margin: 0;<br />text-align: center;<br />top: 10px !important;</li>
-</ul>
-</li>
 </ul>
 </li>
 </ul>
@@ -78,7 +75,31 @@
 </li>
 </ul>
 </li>
+<li>Tama&ntilde;o de la Imagen trabajada a 1900x2880</li>
+<li>Eliminada las fotos de las Subcategorias editando el archivo category-header (catalog/_partials/category-header.tpl) lineas 46 a 54
+<ul>
+<li>&lt;div class="subcategory-image"&gt;<br />&lt;a href="{$link-&gt;getCategoryLink($subcategory.id_category, $subcategory.link_rewrite)|escape:'html':'UTF-8'}" title="{$subcategory.name|escape:'html':'UTF-8'}" class="img"&gt;<br />{if $subcategory.id_image}<br />&lt;img class="replace-2x" src="{$link-&gt;getCatImageLink($subcategory.link_rewrite, $subcategory.id_image, 'small_default')|escape:'html':'UTF-8'}" alt="{$subcategory.name|escape:'html':'UTF-8'}"/&gt;<br />{else}<br />&lt;img class="replace-2x" src="{$img_cat_dir}{$lang_iso}-default-small_default.jpg" alt="{$subcategory.name|escape:'html':'UTF-8'}"/&gt;<br />{/if}<br />&lt;/a&gt;<br />&lt;/div&gt;</li>
 </ul>
+</li>
+<li>Modificado el tama&ntilde;o y separacion del menu de categorias block-categories .category-sub-menu li a { (9501)
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>color: #888 !important;<br />font-size: 14px !important;<br />line-height: 28px !important;</li>
+</ul>
+</li>
+<li>Hacia
+<ul>
+<li>color: #000 !important;<br />font-size: 15px !important;<br />line-height: 29px !important;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>El menu de subcategoria de la parte derecha ahora solo muestra las categorias de la seccion que te encuentres presente&nbsp;</li>
+<li>Eliminado el texto de subcategoria</li>
+<li>La seccion de Hacienda Araucano ha sido reconstruida (No es oficial)</li>
+</ul>
+</div>
 <h2><span style="color: #ff0000;">Version 0.1.8</span></h2>
 <h3>Fecha del cambio: 04/01/2021</h3>
 <ul>
@@ -95,6 +116,12 @@
 </ul>
 </li>
 </ul>
+<h3>Problemas conocidos</h3>
+<ul>
+<li>Hacer centrado los logos</li>
+<li>Registrar la empresa en Culqi</li>
+<li>Descripcion a cada tipo de vino para el catalogo de la web</li>
+<li>Descripcion de los vinos del catalogo</li>
 <ul>
 <li style="list-style-type: none;">&nbsp;</li>
 </ul>
