@@ -19,6 +19,7 @@
 </ul>
 </li>
 <li>Arreglada la informacion de la tienda</li>
+<li>Cambiado el logo de XtremeBlue azul y dorado, por uno blanco total&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
 </ul>
 <h3>Problemas conocidos</h3>
 <ul>
