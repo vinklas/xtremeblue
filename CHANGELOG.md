@@ -12,6 +12,12 @@
 <li>Huarpe Wines : <a href="http://shop.xtreme-blue.com/17-huarpe-wines">http://shop.xtreme-blue.com/17-huarpe-wines</a></li>
 </ul>
 </li>
+<li>Modificada las subcategorias de vinos</li>
+	<ul>
+	<li>Vinos Tintos http://shop.xtreme-blue.com/11-vinos-tintos</li>
+	<li>Vinos Blancos http://shop.xtreme-blue.com/15-vinos-blancos</li>
+	<li>Vinos Rosados http://shop.xtreme-blue.com/14-vinos-rosados</li>
+	</ul>
 <li>Modificado los logos de las marcas a una resolucion de 600x300&nbsp;</li>
 <li>Modificada la linea .brands #ttbrandlogo-carousel { (15092) para alinear las marcas de la parte inferior de la pagina principal
 <ul>
@@ -28,7 +34,7 @@
 <li>Registrar la empresa en Culqi</li>
 <li>Descripcion a cada tipo de vino para el catalogo de la web</li>
 <li>Descripcion de los vinos del catalogo</li>
-<li>Ajustad el margen de la zona de usuarios en la parte superior</li>	
+<li>Imagen de la parte inferior cambiarla</li>
 </ul>
 </ul>
 </div>
