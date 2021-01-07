@@ -1,6 +1,36 @@
 <!-- START CONTENT -->
 <div id="content">
 <h1>Change Log</h1>
+<h2><span style="color: #ff0000;">Version 0.2.0</span></h2>
+<h3>Fecha del cambio: 07/01/2021</h3>
+<ul>
+<li>Modificada las subcategorias de las bodegas
+<ul>
+<li>Piedra Negra : http://shop.xtreme-blue.com/18-piedra-negra</li>
+<li>Hacienda Araucano <a href="http://shop.xtreme-blue.com/16-hacienda-araucano">http://shop.xtreme-blue.com/16-hacienda-araucano</a></li>
+<li>Yacochuya : http://shop.xtreme-blue.com/19-san-pedro-de-yacochuya</li>
+<li>Huarpe Wines : <a href="http://shop.xtreme-blue.com/17-huarpe-wines">http://shop.xtreme-blue.com/17-huarpe-wines</a></li>
+</ul>
+</li>
+<li>Modificado los logos de las marcas a una resolucion de 600x300&nbsp;</li>
+<li>Modificada la linea .brands #ttbrandlogo-carousel { (15092) para alinear las marcas de la parte inferior de la pagina principal
+<ul>
+<li>Se le ha a&ntilde;adido el siguiente codigo : margin-left: 142px;</li>
+</ul>
+</li>
+<li>Arreglada la informacion de la tienda</li>
+</ul>
+<h3>Problemas conocidos</h3>
+<ul>
+<ul>
+<li>Hacer centrado los logos</li>
+<li>Registrar la empresa en Culqi</li>
+<li>Descripcion a cada tipo de vino para el catalogo de la web</li>
+<li>Descripcion de los vinos del catalogo</li>
+<li>Imagen de la parte inferior cambiarla</li>
+</ul>
+</ul>
+</div>
 <h2><span style="color: #ff0000;">Version 0.1.9</span></h2>
 <h3>Fecha del cambio: 06/01/2021</h3>
 <ul>
@@ -53,6 +83,7 @@
 <li>color: #000000;<br />left: 15px;<br />margin: 0;<br />text-align: center;<br />top: 10px !important;</li>
 </ul>
 </li>
+<li style="list-style-type: none;">&nbsp;</li>
 <li>Hacia
 <ul>
 <li>color: #000000;<br />left: 1px;<br />margin: 0;<br />text-align: center;<br />top: 10px !important;</li>
@@ -77,19 +108,19 @@
 <li>Tama&ntilde;o de las imagenes de los productos trabajada a 1900x2880</li>
 <li>Eliminada las fotos de las Subcategorias editando el archivo category-header (catalog/_partials/category-header.tpl) lineas 46 a 54
 <ul>
-<li>&lt;div class="subcategory-image"&gt;<br />&lt;a href="{$link-&gt;getCategoryLink($subcategory.id_category, $subcategory.link_rewrite)|escape:'html':'UTF-8'}" title="{$subcategory.name|escape:'html':'UTF-8'}" class="img"&gt;<br />{if $subcategory.id_image}<br />&lt;img class="replace-2x" src="{$link-&gt;getCatImageLink($subcategory.link_rewrite, $subcategory.id_image, 'small_default')|escape:'html':'UTF-8'}" alt="{$subcategory.name|escape:'html':'UTF-8'}"/&gt;<br />{else}<br />&lt;img class="replace-2x" src="{$img_cat_dir}{$lang_iso}-default-small_default.jpg" alt="{$subcategory.name|escape:'html':'UTF-8'}"/&gt;<br />{/if}<br />&lt;/a&gt;<br />&lt;/div&gt;</li>
+	<li>&lt;div class="subcategory-image"&gt;<br />&lt;a href="{$link-&gt;getCategoryLink($subcategory.id_category, $subcategory.link_rewrite)|escape:'html':'UTF-8'}" title="{$subcategory.name|escape:'html':'UTF-8'}" class="img"&gt;<br />{if $subcategory.id_image}<br />&lt;img class="replace-2x" src="{$link-&gt;getCatImageLink($subcategory.link_rewrite, $subcategory.id_image, 'small_default')|escape:'html':'UTF-8'}" alt="{$subcategory.name|escape:'html':'UTF-8'}"/&gt;<br />{else}<br />&lt;img class="replace-2x" src="{$img_cat_dir}{$lang_iso}-default-small_default.jpg" alt="{$subcategory.name|escape:'html':'UTF-8'}"/&gt;<br />{/if}<br />&lt;/a&gt;<br />&lt;/div&gt;</li>
 </ul>
 </li>
 <li>Modificado el tama&ntilde;o y separacion del menu de categorias block-categories .category-sub-menu li a { (9501)
 <ul>
 <li style="list-style-type: none;">
 <ul>
-<li>color: #888 !important;<br />font-size: 14px !important;<br />line-height: 28px !important;</li>
+	<li>color: #888 !important;<br />font-size: 14px !important;<br />line-height: 28px !important;</li>
 </ul>
 </li>
 <li>Hacia
 <ul>
-<li>color: #000 !important;<br />font-size: 15px !important;<br />line-height: 29px !important;</li>
+	<li>color: #000 !important;<br />font-size: 15px !important;<br />line-height: 29px !important;</li>
 </ul>
 </li>
 </ul>
@@ -98,9 +129,10 @@
 <li>Eliminado el texto de subcategoria</li>
 <li>La seccion de Hacienda Araucano ha sido reconstruida (No es oficial)</li>
 <ul>
-<li>http://shop.xtreme-blue.com/16-hacienda-araucano</li>
+	<li>http://shop.xtreme-blue.com/16-hacienda-araucano</li>
 </ul>
 <li>Nombre de la tienda cambiado de Xtreme-Blue a XtremeBlue</li>
+<li>Modificado el Menu izquierdo en las subcategorias, ahora solo muestra las categoria raiz de la cual te encuentras y no todas</li>
 </ul>
 <h3>Problemas conocidos</h3>
 <ul>
@@ -109,6 +141,8 @@
 <li>Descripcion a cada tipo de vino para el catalogo de la web</li>
 <li>Descripcion de los vinos del catalogo</li>
 <li>Imagen de la parte inferior cambiarla</li>
+<ul>
+</ul>
 </ul>
 </div>
 <h2><span style="color: #ff0000;">Version 0.1.8</span></h2>
@@ -347,8 +381,5 @@
 </div>
 <!-- END CONTENT -->
 <div id="footer">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><a href="#top">Top of Page</a></p>
 </div>
