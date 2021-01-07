@@ -28,7 +28,7 @@
 <li>Registrar la empresa en Culqi</li>
 <li>Descripcion a cada tipo de vino para el catalogo de la web</li>
 <li>Descripcion de los vinos del catalogo</li>
-<li>Imagen de la parte inferior cambiarla</li>
+<li>Ajustad el margen de la zona de usuarios en la parte superior</li>	
 </ul>
 </ul>
 </div>
