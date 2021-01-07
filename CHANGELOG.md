@@ -26,6 +26,7 @@
 </li>
 <li>Arreglada la informacion de la tienda</li>
 <li>Cambiado el logo de XtremeBlue azul y dorado, por uno blanco total&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
+<li>Cambiado el formato de los productos de Simple a Combinaciones todos para que muestren la Añada en la parte derecha</li>
 </ul>
 <h3>Problemas conocidos</h3>
 <ul>
