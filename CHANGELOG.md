@@ -111,9 +111,7 @@
 <li>Descripcion de los vinos del catalogo</li>
 <li>Imagen de la parte inferior cambiarla</li>
 <ul>
-<li style="list-style-type: none;">&nbsp;</li>
 </ul>
-</li>
 </ul>
 </div>
 <h2><span style="color: #ff0000;">Version 0.1.8</span></h2>
