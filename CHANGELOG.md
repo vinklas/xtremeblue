@@ -8,12 +8,12 @@
 <ul>
 <li style="list-style-type: none;">
 <ul>
-		<li>color: #888 !important;</li>
+<li>color: #888 !important;</li>
 </ul>
 </li>
-	<li>Hacia
+<li>Hacia
 <ul>
-		<li>color: #000 !important;</li>
+<li>color: #000 !important;</li>
 </ul>
 </li>
 </ul>
@@ -22,12 +22,12 @@
 <ul>
 <li style="list-style-type: none;">
 <ul>
-		<li>display: inline-block</li>
+<li>display: inline-block</li>
 </ul>
 </li>
-	<li>Hacia
+<li>Hacia
 <ul>
-		<li>display: inline-table</li>
+<li>display: inline-table</li>
 </ul>
 </li>
 </ul>
@@ -36,12 +36,12 @@
 <ul>
 <li style="list-style-type: none;">
 <ul>
-		<li>li.product-flag {<br />display: block;<br />position: absolute;<br />z-index: 1;<br />left: 15px;</li>
+<li>li.product-flag {<br />display: block;<br />position: absolute;<br />z-index: 1;<br />left: 15px;</li>
 </ul>
 </li>
-	<li>Hacia
+<li>Hacia
 <ul>
-		<li>li.product-flag {<br />display: block;<br />position: absolute;<br />z-index: 1;<br />left: 1px;</li>
+<li>li.product-flag {<br />display: block;<br />position: absolute;<br />z-index: 1;<br />left: 1px;</li>
 </ul>
 </li>
 </ul>
@@ -50,13 +50,13 @@
 <ul>
 <li style="list-style-type: none;">
 <ul>
-		<li>color: #000000;<br />left: 15px;<br />margin: 0;<br />text-align: center;<br />top: 10px !important;</li>
+<li>color: #000000;<br />left: 15px;<br />margin: 0;<br />text-align: center;<br />top: 10px !important;</li>
 </ul>
 </li>
 <li style="list-style-type: none;">&nbsp;</li>
-	<li>Hacia
+<li>Hacia
 <ul>
-		<li>color: #000000;<br />left: 1px;<br />margin: 0;<br />text-align: center;<br />top: 10px !important;</li>
+<li>color: #000000;<br />left: 1px;<br />margin: 0;<br />text-align: center;<br />top: 10px !important;</li>
 </ul>
 </li>
 </ul>
@@ -65,12 +65,12 @@
 <ul>
 <li style="list-style-type: none;">
 <ul>
-		<li>-webkit-opacity: 0.6;</li>
+<li>-webkit-opacity: 0.6;</li>
 </ul>
 </li>
-	<li>Hacia
+<li>Hacia
 <ul>
-		<li>-webkit-opacity: 0.9;</li>
+<li>-webkit-opacity: 0.9;</li>
 </ul>
 </li>
 </ul>
@@ -85,12 +85,12 @@
 <ul>
 <li style="list-style-type: none;">
 <ul>
-		<li>color: #888 !important;<br />font-size: 14px !important;<br />line-height: 28px !important;</li>
+	<li>color: #888 !important;<br />font-size: 14px !important;<br />line-height: 28px !important;</li>
 </ul>
 </li>
-	<li>Hacia
+<li>Hacia
 <ul>
-		<li>color: #000 !important;<br />font-size: 15px !important;<br />line-height: 29px !important;</li>
+	<li>color: #000 !important;<br />font-size: 15px !important;<br />line-height: 29px !important;</li>
 </ul>
 </li>
 </ul>
