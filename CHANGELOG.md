@@ -15,7 +15,7 @@
 <li>Vinos Rosados <a href="http://shop.xtreme-blue.com/14-vinos-rosados">http://shop.xtreme-blue.com/14-vinos-rosados</a></li>
 </ul>
 </li>
-<li>Se ha agregado descripcion a los vinos de la Hacienda Huarpe Wines</li>
+<li>Se ha agregado descripcion a los vinos de la Hacienda Huarpe Wines y Piedra Negra</li>
 <ul>Falta agregar algunos ver en problemas conocidos</ul>
 </ul>
 <h3>Problemas conocidos</h3>
