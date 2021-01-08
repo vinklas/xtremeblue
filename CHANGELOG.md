@@ -18,6 +18,10 @@
 <li>Se ha agregado descripcion a los vinos de la Hacienda Huarpe Wines y Piedra Negra</li>
 <ul>Falta agregar algunos ver en problemas conocidos</ul>
 </ul>
+<li>Modificado el margen del menu de usuario para que no aparezca en dos lineas(.user-info { 13910)</li>
+	<ul>
+		<li>Linea modificada "padding: 10px 20px" a " padding: 10px 16px" (13917)</li>
+	</ul>
 <h3>Problemas conocidos</h3>
 <ul>
 <ul>
