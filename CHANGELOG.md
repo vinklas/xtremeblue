@@ -1,6 +1,42 @@
 <!-- START CONTENT -->
 <div id="content">
 <h1>Change Log</h1>
+<h2><span style="color: #ff0000;">Version 0.2.1</span></h2>
+<h3>Fecha del cambio: 08/01/2021</h3>
+<ul>
+<li>Modificada las Subcategorias de vuelta ahora la imagen escala en los dispositivos moviles
+<ul>
+<li>Piedra Negra : <a href="http://shop.xtreme-blue.com/18-piedra-negra">http://shop.xtreme-blue.com/18-piedra-negra</a></li>
+<li>Hacienda Araucano <a href="http://shop.xtreme-blue.com/16-hacienda-araucano">http://shop.xtreme-blue.com/16-hacienda-araucano</a></li>
+<li>Yacochuya : <a href="http://shop.xtreme-blue.com/19-san-pedro-de-yacochuya">http://shop.xtreme-blue.com/19-san-pedro-de-yacochuya</a></li>
+<li>Huarpe Wines : <a href="http://shop.xtreme-blue.com/17-huarpe-wines">http://shop.xtreme-blue.com/17-huarpe-wines</a></li>
+<li>Vinos Tintos <a href="http://shop.xtreme-blue.com/11-vinos-tintos">http://shop.xtreme-blue.com/11-vinos-tintos</a></li>
+<li>Vinos Blancos <a href="http://shop.xtreme-blue.com/15-vinos-blancos">http://shop.xtreme-blue.com/15-vinos-blancos</a></li>
+<li>Vinos Rosados <a href="http://shop.xtreme-blue.com/14-vinos-rosados">http://shop.xtreme-blue.com/14-vinos-rosados</a></li>
+</ul>
+</li>
+<li>Se ha agregado descripcion a los vinos de la Hacienda Huarpe Wines</li>
+<ul>Falta agregar algunos ver en problemas conocidos</ul>
+</ul>
+<h3>Problemas conocidos</h3>
+<ul>
+<ul>
+<li>Registrar la empresa en Culqi</li>
+<li>Descripcion a cada tipo de vino para el catalogo de la web, Lista de los faltantes</li>
+	<ul>
+	<li>Araucano Reserva Syrah</li>
+	<li>Araucano Reserva Pinot Noir</li>
+	<li>HUARPE LANCATAY CABERNET SAUVIGNON</li>
+	<li>HUARPE LANCATAY CHARDONNAY</li>
+	<li>HUARPE LANCATAY MALBEC</li>
+	<li>PIEDRA NEGRA GRAN LURTON CABERNET SAUVIGNON</li>
+	<li>PIEDRA NEGRA GRAN LURTON STATE BOTTLED</li>
+	<li>Todo San Pedro de Yacochuya&nbsp;</li>
+    </ul>
+<li>Descripcion de los vinos del catalogo</li>
+</ul>
+</ul>
+</div>	
 <h2><span style="color: #ff0000;">Version 0.2.0</span></h2>
 <h3>Fecha del cambio: 07/01/2021</h3>
 <ul>
@@ -40,7 +76,6 @@
 <li>Registrar la empresa en Culqi</li>
 <li>Descripcion a cada tipo de vino para el catalogo de la web</li>
 <li>Descripcion de los vinos del catalogo</li>
-<li>Imagen de la parte inferior cambiarla</li>
 </ul>
 </ul>
 </div>
