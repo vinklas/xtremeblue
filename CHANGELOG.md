@@ -36,6 +36,7 @@
 	<li>PIEDRA NEGRA GRAN LURTON CABERNET SAUVIGNON</li>
 	<li>PIEDRA NEGRA GRAN LURTON STATE BOTTLED</li>
 	<li>Todo San Pedro de Yacochuya&nbsp;</li>
+	<li>Cambiar la imagen de abajo de la pagina resolucion : 1780x500<li>
     </ul>
 <li>Descripcion de los vinos del catalogo</li>
 </ul>
