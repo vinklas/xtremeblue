@@ -1,6 +1,88 @@
 <!-- START CONTENT -->
+<!-- START CONTENT -->
 <div id="content">
 <h1>Change Log</h1>
+<h2><span style="color: #ff0000;">Version 0.2.3</span></h2>
+<h3>Fecha del cambio: 18/01/2021</h3>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Modificado el color de fondo del CMSBanner<br />
+<ul>
+<li>#ttcmsbanner { (17025)<br />Background #fbfbfbfb -&gt; background: #F4F4F4;</li>
+<li>#ttcmsbanner .ttcmsbannerblock .ttbannercol .ttbanner-content.ttbanner-content1 { (17180)<br />Background #fbfbfbfb -&gt; background: #E3E3E3:</li>
+</ul>
+</li>
+<li>Modificado el .tt-title { (12475) de&nbsp;
+<ul>
+<li>background: rgba(0, 0, 0, 0) url("../img/seprator.png") no-repeat scroll center bottom ---&gt; background: rgba(0, 0, 0, 0) url("../img/seprator.png") no-repeat scroll center</li>
+</ul>
+</li>
+<li>Modificada las imagenes del CMS Banner&nbsp;</li>
+<li>Modificado el CMS About US se ha quitado la firma de stock
+<ul>
+<li>&lt;div class="ttabout-sign"&gt;&lt;a href="#"&gt;&lt;img alt="about-sign" src="../img/cms/about-signature.png" /&gt;&lt;/a&gt;</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3>Problemas conocidos</h3>
+<ul>
+<ul>
+<ul>
+<li>Registrar la empresa en Culqi</li>
+<li>Descripcion a cada tipo de vino para el catalogo de la web, Lista de los faltantes</li>
+<ul>
+<li>Araucano Reserva Syrah</li>
+<li>Araucano Reserva Pinot Noir</li>
+<li>HUARPE LANCATAY CABERNET SAUVIGNON</li>
+<li>HUARPE LANCATAY CHARDONNAY</li>
+<li>HUARPE LANCATAY MALBEC</li>
+<li>PIEDRA NEGRA GRAN LURTON CABERNET SAUVIGNON</li>
+<li>PIEDRA NEGRA GRAN LURTON STATE BOTTLED</li>
+<li>Todo San Pedro de Yacochuya&nbsp;</li>
+</ul>
+<li>Descripcion de los vinos del catalogo</li>
+</ul>
+</ul>
+</ul>
+<h2><span style="color: #ff0000;">Version 0.2.2</span></h2>
+<h3>Fecha del cambio: 08/01/2021</h3>
+<ul>
+<li>Quitado los numeros del carrusel de imagenes (Modificando el archivo&nbsp;PRSTM005/modules/ps_imageslider/css/homeslider.css)</li>
+<ul>
+<li>Se a&ntilde;adio a la linea 86 display: none;</li>
+</ul>
+<li>Modificado el cuadro del CMS Banner a todo Blanco y Letras negras.</li>
+<ul>
+<li>
+<p>(17518) #ttcmsbanner .ttcmsbannerblock .ttbannercol .ttbanner-content1 span.bannerdesc {<br />border: 2px solid #000;<br />font: 400 16px/35px "Poppins",Helvetica,sans-serif;<br />padding: 6px 25px;<br />text-align: center;<br />text-transform: capitalize;<br />width: auto;<br />color:#fff;<br />cursor:pointer;<br />}<br />.ttbanner-content4.ttbanner-content.ttbanner:hover .bannerdesc,<br />.ttbanner-content2.ttbanner-content.ttbanner:hover .bannerdesc,<br />.ttbanner-content3.ttbanner-content.ttbanner:hover .bannerdesc {<br />background: #fff none repeat scroll 0 0;<br />color: #fff!important;<br />}<br />#ttcmsbanner .ttcmsbannerblock .ttbannercol:hover .ttbanner-content1 span.bannerdesc<br />{<br />background:#fff;<br />color:#262629;<br />}<br />#ttcmsbanner .ttcmsbannerblock .ttbannercol .ttbanner-content.ttbanner-content1 {<br />background: #fff;<br />padding: 113px 16%;</p>
+</li>
+<li>(17112) #ttcmsbanner .ttcmsbannerblock .ttbannercol .ttimg1::after {<br />color: #ffffff;<br />content: "\E5C5";<br />font-family: "Material Icons";<br />font-size: 100px;<br />left: 0;<br />line-height: 40px;<br />position: absolute;<br />bottom: -13px;<br />right:0;<br />width:100px;<br />height:100px;<br />margin:auto;<br />transform:rotate(180deg);</li>
+<li>(17148) <span class="webkit-css-property">border</span><span class="styles-name-value-separator">: 2</span><span class="value">px solid&nbsp;#000</span></li>
+<li>(375) color: #000000</li>
+</ul>
+</ul>
+<h3>Problemas conocidos</h3>
+<ul>
+<ul>
+<li>Registrar la empresa en Culqi</li>
+<li>Descripcion a cada tipo de vino para el catalogo de la web, Lista de los faltantes</li>
+<ul>
+<li>Araucano Reserva Syrah</li>
+<li>Araucano Reserva Pinot Noir</li>
+<li>HUARPE LANCATAY CABERNET SAUVIGNON</li>
+<li>HUARPE LANCATAY CHARDONNAY</li>
+<li>HUARPE LANCATAY MALBEC</li>
+<li>PIEDRA NEGRA GRAN LURTON CABERNET SAUVIGNON</li>
+<li>PIEDRA NEGRA GRAN LURTON STATE BOTTLED</li>
+<li>Todo San Pedro de Yacochuya&nbsp;</li>
+</ul>
+<li>Descripcion de los vinos del catalogo</li>
+</ul>
+</ul>
+</div>
 <h2><span style="color: #ff0000;">Version 0.2.1</span></h2>
 <h3>Fecha del cambio: 08/01/2021</h3>
 <ul>
@@ -36,7 +118,6 @@
 	<li>PIEDRA NEGRA GRAN LURTON CABERNET SAUVIGNON</li>
 	<li>PIEDRA NEGRA GRAN LURTON STATE BOTTLED</li>
 	<li>Todo San Pedro de Yacochuya&nbsp;</li>
-	<li>Cambiar la imagen de abajo de la pagina resolucion : 1780x500<li>
     </ul>
 <li>Descripcion de los vinos del catalogo</li>
 </ul>
