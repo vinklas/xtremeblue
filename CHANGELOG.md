@@ -1,4 +1,5 @@
 <!-- START CONTENT -->
+<h1>Change Log</h1>
 <h2><span style="color: #ff0000;">Version 0.2.4</span></h2>
 <h3>Fecha del cambio: 21/01/2021</h3>
 <ul>
@@ -18,7 +19,7 @@
 <ul>
 <ul>
 <li>Registrar la empresa en Culqi</li>
-<li>Menu&nbsp;</li>
+<li>Descripcion a cada tipo de vino para el catalogo de la web, Lista de los faltantes</li>
 <ul>
 <li>Araucano Reserva Syrah</li>
 <li>Araucano Reserva Pinot Noir</li>
@@ -35,8 +36,6 @@
 <li>Carrusel Ponerle puntos para cambiar las imagenes</li>
 </ul>
 </ul>
-<div id="content">
-<h1>Change Log</h1>
 <h2><span style="color: #ff0000;">Version 0.2.3</span></h2>
 <h3>Fecha del cambio: 18/01/2021</h3>
 <ul>
@@ -44,8 +43,8 @@
 <ul>
 <li>Modificado el color de fondo del CMSBanner<br />
 <ul>
-<li>#ttcmsbanner { (17025)<br />Background #fbfbfbfb -&gt; background: #F4F4F4;</li>
-<li>#ttcmsbanner .ttcmsbannerblock .ttbannercol .ttbanner-content.ttbanner-content1 { (17180)<br />Background #fbfbfbfb -&gt; background: #E3E3E3:</li>
+<li>#ttcmsbanner { (17025)<br />Background #fbfbfbfb -&gt; background: #ECECEC;</li>
+<li>#ttcmsbanner .ttcmsbannerblock .ttbannercol .ttbanner-content.ttbanner-content1 { (17180)<br />Background #fbfbfbfb -&gt; background: #ECECEC:</li>
 </ul>
 </li>
 <li>Modificado el .tt-title { (12475) de&nbsp;
@@ -54,16 +53,10 @@
 </ul>
 </li>
 <li>Modificada las imagenes del CMS Banner&nbsp;</li>
-<li>Modificado el CMS About US se ha quitado la firma de stock
-<ul>
-<li>&lt;div class="ttabout-sign"&gt;&lt;a href="#"&gt;&lt;img alt="about-sign" src="../img/cms/about-signature.png" /&gt;&lt;/a&gt;</li>
-</ul>
-</li>
 </ul>
 </li>
 </ul>
 <h3>Problemas conocidos</h3>
-<ul>
 <ul>
 <ul>
 <li>Registrar la empresa en Culqi</li>
@@ -79,7 +72,6 @@
 <li>Todo San Pedro de Yacochuya&nbsp;</li>
 </ul>
 <li>Descripcion de los vinos del catalogo</li>
-</ul>
 </ul>
 </ul>
 <h2><span style="color: #ff0000;">Version 0.2.2</span></h2>
