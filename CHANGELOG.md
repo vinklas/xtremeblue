@@ -1,5 +1,40 @@
 <!-- START CONTENT -->
-<!-- START CONTENT -->
+<h2><span style="color: #ff0000;">Version 0.2.4</span></h2>
+<h3>Fecha del cambio: 21/01/2021</h3>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Modificado el Catalogo ahora todas las imagenes de alinean a la izquierda (7971)
+<ul>
+<li>#js-product-list {&nbsp;<br />text-align: left;<br />float: left;<br />width: 100%;</li>
+</ul>
+</li>
+<li>Arreglado los vinos Alka y Gran Araucano que cambiaban las imagenes</li>
+<li>Cambiada la imagen del Sorgin</li>
+</ul>
+</li>
+</ul>
+<h3>Problemas conocidos</h3>
+<ul>
+<ul>
+<li>Registrar la empresa en Culqi</li>
+<li>Menu&nbsp;</li>
+<ul>
+<li>Araucano Reserva Syrah</li>
+<li>Araucano Reserva Pinot Noir</li>
+<li>HUARPE LANCATAY CABERNET SAUVIGNON</li>
+<li>HUARPE LANCATAY CHARDONNAY</li>
+<li>HUARPE LANCATAY MALBEC</li>
+<li>PIEDRA NEGRA GRAN LURTON CABERNET SAUVIGNON</li>
+<li>PIEDRA NEGRA GRAN LURTON STATE BOTTLED</li>
+<li>Todo San Pedro de Yacochuya&nbsp;</li>
+</ul>
+<li>Descripcion de los vinos del catalogo</li>
+<li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
+<li>Crear un boton de inicio</li>
+<li>Carrusel Ponerle puntos para cambiar las imagenes</li>
+</ul>
+</ul>
 <div id="content">
 <h1>Change Log</h1>
 <h2><span style="color: #ff0000;">Version 0.2.3</span></h2>
