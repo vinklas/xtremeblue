@@ -12,6 +12,7 @@
 </li>
 <li>Arreglado los vinos Alka y Gran Araucano que cambiaban las imagenes</li>
 <li>Cambiada la imagen del Sorgin</li>
+<li>Modificada las imagenes del Carrusel</li>	
 </ul>
 </li>
 </ul>
