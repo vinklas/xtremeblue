@@ -1,5 +1,41 @@
 <!-- START CONTENT -->
 <h1>Change Log</h1>
+<!-- START CONTENT -->
+<h1>Change Log</h1>
+<h2><span style="color: #ff0000;">Version 0.2.5</span></h2>
+<h3>Fecha del cambio: 04/02/2021</h3>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Se a&ntilde;adido el boton de "INICIO" en el Menu principal (7971)
+<ul>
+<li>#js-product-list {&nbsp;<br />text-align: left;<br />float: left;<br />width: 100%;</li>
+</ul>
+</li>
+<li>Ocultado la descripcion de los productos (Siempre y cuando no escriban algo en ella)</li>
+</ul>
+</li>
+</ul>
+<h3>Problemas conocidos</h3>
+<ul>
+<ul>
+<li>Registrar la empresa en Culqi</li>
+<li>Descripcion a cada tipo de vino para el catalogo de la web, Lista de los faltantes</li>
+<ul>
+<li>Araucano Reserva Syrah</li>
+<li>Araucano Reserva Pinot Noir</li>
+<li>HUARPE LANCATAY CABERNET SAUVIGNON</li>
+<li>HUARPE LANCATAY CHARDONNAY</li>
+<li>HUARPE LANCATAY MALBEC</li>
+<li>PIEDRA NEGRA GRAN LURTON CABERNET SAUVIGNON</li>
+<li>PIEDRA NEGRA GRAN LURTON STATE BOTTLED</li>
+<li>Todo San Pedro de Yacochuya&nbsp;</li>
+</ul>
+<li>Descripcion de los vinos del catalogo</li>
+<li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
+<li>Carrusel Ponerle puntos para cambiar las imagenes</li>
+</ul>
+</ul>
 <h2><span style="color: #ff0000;">Version 0.2.4</span></h2>
 <h3>Fecha del cambio: 21/01/2021</h3>
 <ul>
