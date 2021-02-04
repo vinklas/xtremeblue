@@ -7,7 +7,7 @@
 <ul>
 <li>Se a&ntilde;adido el boton de "INICIO" en el Menu principal</li>
 <li>Ocultado la descripcion de los productos (Siempre y cuando no escriban algo en ella)</li>
-<li>Se a&ntilde;adio un codigo al Custom.js para tratar de separar los nombres y el tipo de vino del catalogo web</li>
+<li>Se a&ntilde;adio un codigo al Custom.js para tratar de separar los nombres y el tipo de vino del catalogo web(1283)</li>
 </ul>
 </li>
 </ul>
