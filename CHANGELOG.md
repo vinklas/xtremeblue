@@ -10,21 +10,21 @@
 	<li>Modificado el codigo 6738</<li>
 		<ul>
 		  	<li> 
-			<p>display: inline-block;</p>
-   			<p> float: unset;</p>
-    			<p>padding: 10px 15px;</p>
-    			<p>text-align: left;</p>
-    			<p>vertical-align: top;</p>
-			<p>width: 300px; 
+			display: inline-block;
+   			float: unset;</p>
+    			padding: 10px 15px;
+    			text-align: left;
+    			vertical-align: top;
+			width: 300px; 
 			  </li>
 		<li>Hacia</li>
 			<li>
-			<p>display: inline-block;</p>
-   			<p> float: unset;</p>
-    			<p>padding: 10px 15px;</p>
-    			<p>text-align: left;</p>
-			<p> vertical-align: top;</p>
-			<p> width: 300px;</p> 
+			display: inline-block;
+   			float: unset;
+    			padding: 10px 15px;
+    			text-align: left;
+			vertical-align: top;
+			width: 300px;
 			</li>
 		</ul>
 </ul>
