@@ -1,13 +1,70 @@
 <!-- START CONTENT -->
 <h1>Change Log</h1>
+<h2><span style="color: #ff0000;">Version 0.2.7</span></h2>
+<h3>Fecha del cambio: 09/02/2021</h3>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+	<li>modificar el orden del catalogo</li>
+	<li>Instalado plugin para verificacion de edad</li>
+	<li>Modificado el codigo 6738</<li>
+		<ul>
+		  	<li> 
+			<p>display: inline-block;</p>
+   			<p> float: unset;</p>
+    			<p>padding: 10px 15px;</p>
+    			<p>text-align: left;</p>
+    			<p>vertical-align: top;</p>
+			<p>width: 300px; 
+			  </li>
+		<li>Hacia</li>
+			<li>
+			<p>display: inline-block;</p>
+   			<p> float: unset;</p>
+    			<p>padding: 10px 15px;</p>
+    			<p>text-align: left;</p>
+			<p> vertical-align: top;</p>
+			<p> width: 300px;</p> 
+			</li>
+		</ul>
+</ul>
+</li>
+</ul>
+<h3>Problemas conocidos</h3>
+<ul>
+<ul>
+<li>Registrar la empresa en Culqi</li>
+<li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
+<li>Carrusel Ponerle puntos para cambiar las imagenes</li>
+<li>Puntos al banner (si es que se puede) si no queda con numeros</li>
+<li>Cambiar los banners superior</li>
+<li>Poner las redes sociales arriba</li>
+<li>About US, Foto de cava y poner el texto en español</li>
+<li>Libro de reclamaciones</li>
+<li>© - Xtreme-Blue todos los derechos reservados. <- quitar el guion</li>
+
+<li>Cambiar horario y foto de informacion de tienda 
+	<ul>
+		<li>9AM - 4PM</li>
+		<li>9AM - 1PM</li>
+	</ul>
+</li>
+
+<li>Tratar de hacer promociones de manera diferente</li>
+<li>Borrar nombre de hacienda en araucano</li>
+
+<li>traducciones de la lista de deseos</li>
+<li>condiciones generales y de confidencialidad</li>
+<li>Proceso de compra el telefono tiene que ser obligatorio</li>
+<li>Dirección Complementaria Poner referencia</li>
+</ul>
+</ul>
 <h2><span style="color: #ff0000;">Version 0.2.6</span></h2>
 <h3>Fecha del cambio: 09/02/2021</h3>
 <ul>
 <li style="list-style-type: none;">
 <ul>
-<li>Se a&ntilde;adido el boton de "INICIO" en el Menu principal</li>
-<li>Ocultado la descripcion de los productos (Siempre y cuando no escriban algo en ella)</li>
-<li>Se a&ntilde;adio un codigo al Custom.js para tratar de separar los nombres y el tipo de vino del catalogo web(1283)</li>
+	
 </ul>
 </li>
 </ul>
