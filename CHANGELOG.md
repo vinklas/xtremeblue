@@ -18,6 +18,7 @@
 		</ul>
 	</li>
 	<li>Alineado el menu</li>
+	<li>puesto los numeros de vuelta en el carrusel</li>
 </ul>
 </ul>
 </li>
@@ -28,7 +29,7 @@
 <li>Registrar la empresa en Culqi</li>
 <li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
 <li>Carrusel Ponerle puntos para cambiar las imagenes</li>
-<li>Puntos al banner (si es que se puede) si no queda con numeros</li>
+<li>Puntos al banner (si es que se puede)</li>
 <li>Cambiar los banners superior</li>
 <li>Poner las redes sociales arriba</li>
 <li>About US, Foto de cava y poner el texto en español</li>
