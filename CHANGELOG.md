@@ -1,7 +1,7 @@
 <!-- START CONTENT -->
 <h1>Change Log</h1>
 <h2><span style="color: #ff0000;">Version 0.2.6</span></h2>
-<h3>Fecha del cambio: 04/02/2021</h3>
+<h3>Fecha del cambio: 09/02/2021</h3>
 <ul>
 <li style="list-style-type: none;">
 <ul>
