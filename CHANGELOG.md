@@ -1,5 +1,57 @@
 <!-- START CONTENT -->
 <h1>Change Log</h1>
+<h2><span style="color: #ff0000;">Version 0.2.6</span></h2>
+<h3>Fecha del cambio: 04/02/2021</h3>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Se a&ntilde;adido el boton de "INICIO" en el Menu principal</li>
+<li>Ocultado la descripcion de los productos (Siempre y cuando no escriban algo en ella)</li>
+<li>Se a&ntilde;adio un codigo al Custom.js para tratar de separar los nombres y el tipo de vino del catalogo web(1283)</li>
+</ul>
+</li>
+</ul>
+<h3>Problemas conocidos</h3>
+<ul>
+<ul>
+<li>Registrar la empresa en Culqi</li>
+<li>Descripcion a cada tipo de vino para el catalogo de la web, Lista de los faltantes</li>
+<ul>
+<li>Araucano Reserva Syrah</li>
+<li>Araucano Reserva Pinot Noir</li>
+<li>HUARPE LANCATAY CABERNET SAUVIGNON</li>
+<li>HUARPE LANCATAY CHARDONNAY</li>
+<li>HUARPE LANCATAY MALBEC</li>
+<li>PIEDRA NEGRA GRAN LURTON CABERNET SAUVIGNON</li>
+<li>PIEDRA NEGRA GRAN LURTON STATE BOTTLED</li>
+<li>Todo San Pedro de Yacochuya&nbsp;</li>
+</ul>
+<li>Descripcion de los vinos del catalogo</li>
+<li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
+<li>Carrusel Ponerle puntos para cambiar las imagenes</li>
+<li>Puntos al banner (si es que se puede) si no queda con numeros</li>
+<li>Cambiar los banners superior</li>
+<li>Poner las redes sociales arriba</li>
+<li>About US, Foto de cava y poner el texto en español</li>
+<li>Exigir mayoria de edad en la pagina</li>
+<li>Libro de reclamaciones</li>
+<li>© - Xtreme-Blue todos los derechos reservados. <- quitar el guion</li>
+
+<li>Cambiar horario y foto de informacion de tienda 
+<ul>9AM - 4PM
+9AM - 1PM</ul>
+<li>
+
+<li>Tratar de hacer promociones de manera diferente</li>
+<li>modificar el orden del catalogo</li>
+<li>Borrar nombre de hacienda en araucano</li>
+
+<li>traducciones de la lista de deseos</li>
+<li>condiciones generales y de confidencialidad</li>
+<li>Proceso de compra el telefono tiene que ser obligatorio</li>
+<li>Dirección Complementaria Poner referencia</li>
+</ul>
+</ul>
 <h2><span style="color: #ff0000;">Version 0.2.5</span></h2>
 <h3>Fecha del cambio: 04/02/2021</h3>
 <ul>
