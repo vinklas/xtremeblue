@@ -7,26 +7,27 @@
 <ul>
 	<li>modificar el orden del catalogo</li>
 	<li>Instalado plugin para verificacion de edad</li>
-	<li>Modificado el codigo 6738</<li>
-		<ul>
-		  	<li> 
-			<p>display: inline-block;
-   			float: unset;</p>
-    			padding: 10px 15px;
-    			text-align: left;
-    			vertical-align: top;
-				width: 300px;</p>
-			  </li>
-		<li>Hacia</li>
-			<li>
-			<p>display: inline-block;
-   			float: unset;
-    			padding: 10px 15px;
-    			text-align: left;
-			vertical-align: top;
-			width: 300px;</p>
-			</li>
-		</ul>
+	<li>Modificado el codigo 6738&lt;/
+	<ul>
+		<li>display: inline-block;</li>
+		<li>float: unset;</li>
+		<li>padding: 10px 15px;</li>
+		<li>text-align: left;</li>
+		<li>vertical-align: top;</li>
+		<li>width: 300px;</li>
+	</ul>
+	</li>
+<li>Hacia
+	<ul>
+		<li>display: inline-block;</li>
+		<li>float: unset;</li>
+		<li>padding: 10px 15px;</li>
+		<li>text-align: left;</li>
+		<li>vertical-align: top;</li>
+		<li>width: 300px;</li>
+	</ul>
+</li>
+</ul>
 </ul>
 </li>
 </ul>
