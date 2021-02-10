@@ -21,6 +21,7 @@
 	<li>puesto los numeros de vuelta en el carrusel</li>
 	<li>Quitado el guion de Xtreme-blue</li>
 	<li>añadida la linea (12471)<br /> display:none;</li>
+		<ul><li>para eliminar los titulos de las categorias</ul></li>
 </ul>
 </ul>
 </li>
