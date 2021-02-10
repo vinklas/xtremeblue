@@ -19,6 +19,8 @@
 	</li>
 	<li>Alineado el menu</li>
 	<li>puesto los numeros de vuelta en el carrusel</li>
+	<li>Quitado el guion de Xtreme-blue</li>
+	<li>añadida la linea<br /> display:none;<br /> 12471</li>
 </ul>
 </ul>
 </li>
@@ -28,14 +30,11 @@
 <ul>
 <li>Registrar la empresa en Culqi</li>
 <li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
-<li>Carrusel Ponerle puntos para cambiar las imagenes</li>
 <li>Puntos al banner (si es que se puede)</li>
 <li>Cambiar los banners superior</li>
 <li>Poner las redes sociales arriba</li>
 <li>About US, Foto de cava y poner el texto en español</li>
 <li>Libro de reclamaciones</li>
-<li>© - Xtreme-Blue todos los derechos reservados. <- quitar el guion</li>
-
 <li>Cambiar horario y foto de informacion de tienda 
 	<ul>
 		<li>9AM - 4PM</li>
@@ -44,8 +43,6 @@
 </li>
 
 <li>Tratar de hacer promociones de manera diferente</li>
-<li>Borrar nombre de hacienda en araucano</li>
-
 <li>traducciones de la lista de deseos</li>
 <li>condiciones generales y de confidencialidad</li>
 <li>Proceso de compra el telefono tiene que ser obligatorio</li>
