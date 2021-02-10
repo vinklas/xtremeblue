@@ -5,55 +5,54 @@
 <ul>
 <li style="list-style-type: none;">
 <ul>
-<li>modificar el orden del catalogo</li>
-<li>Instalado plugin para verificacion de edad</li>
-<li>Modificado el codigo 6738&lt;/
-<ul>
-<li>display: inline-block;<br />float: unset;<br />padding: 10px 15px;<br />&gt;text-align: left;<br />vertical-align: top;<br />width: 300px;</li>
+	<li>modificar el orden del catalogo</li>
+	<li>Instalado plugin para verificacion de edad</li>
+	<li>Modificado el codigo 6738&lt;/
+		<ul>
+		<li>display: inline-block;<br />float: unset;<br />padding: 10px 15px;<br />&gt;text-align: left;<br />vertical-align: top;<br />width: 300px;</li>
+		</ul>
+	</li>
+	<li>Hacia
+		<ul>
+		<li>display: inline-block;<br />&gt;float: unset;<br />padding: 10px 15px;<br />text-align: left;<br />vertical-align: top;<br />width: 300px;</li>
+		</ul>
+	</li>
+	<li>Alineado el menu</li>
+	<li>puesto los numeros de vuelta en el carrusel</li>
+	<li>Quitado el guion de Xtreme-blue copyright</li>
+	<li>a&ntilde;adida la linea (12471)&nbsp; para eliminar los titulos de las categorias </li>
+		<ul>
+		<li>display:none;</li>
+		</ul>
+	</li>
+	<li>Cambiado horario de trabajo
+		<ul>
+		<li>9AM - 4PM</li>
+		<li>9AM - 1PM</li>
+		</ul>
+	</li>
+	<li>Proceso de compra el telefono ahora es obligatorio</li>
+	<li>Arreglada algunas traducciones de la lista de deseos</li>
+	<li>Agregado los terminos y condiciones en el registro, y la obligacion de poner correo</li>
+	<li>A&ntilde;adida las redes sociales al tope de la pagina y modificado el codigo en&nbsp; theme.css(11068) para mejor margen y borrar la linea&nbsp;
+		<ul>
+		<li style="list-style-type: none;">
+			<ul>
+			<li>.block-social {<br />border-top: 1px solid #1a1a1a;<br />text-align: center;<br />width: 100%;<br />float: none;<br />vertical-align: top;<br />display: inline-block;<br />padding-top: 30px;</li>
+			</ul>
+		</li>
+		<li>Hacia
+			<ul>
+			<li>.block-social {<br />border-top: 0px solid #1a1a1a;<br />text-align: center;<br />width: 100%;<br />float: none;<br />vertical-align: top;<br />display: inline-block;<br />padding-top: 0px;</li>
+			</ul>
+		</li>
+		</ul>
+		</li>
+	<li>A&ntilde;adida la cuenta bancaria de pago de Xtreme-Blue, para pagos con transferencia bancaria</li>
+	</ul>
+	</li>
 </ul>
-</li>
-<li>Hacia
-<ul>
-<li>display: inline-block;<br />&gt;float: unset;<br />padding: 10px 15px;<br />text-align: left;<br />vertical-align: top;<br />width: 300px;</li>
-</ul>
-</li>
-<li>Alineado el menu</li>
-<li>puesto los numeros de vuelta en el carrusel</li>
-<li>Quitado el guion de Xtreme-blue copyright</li>
-<li>a&ntilde;adida la linea (12471)&nbsp;</li>
-<li>para eliminar los titulos de las categorias
-<ul>
-<li>display:none;</li>
-</ul>
-</li>
-<li>Cambiado horario de trabajo
-<ul>
-<li>9AM - 4PM</li>
-<li>9AM - 1PM</li>
-</ul>
-</li>
-<li>Proceso de compra el telefono ahora es obligatorio</li>
-<li>Arreglada algunas traducciones de la lista de deseos</li>
-<li>Agregado los terminos y condiciones en el registro, y la obligacion de poner correo</li>
-<li>A&ntilde;adida las redes sociales al tope de la pagina y modificado el codigo en&nbsp; theme.css(11068) para mejor margen y borrar la linea&nbsp;
-<ul>
-<li style="list-style-type: none;">
-<ul>
-<li>.block-social {<br />border-top: 1px solid #1a1a1a;<br />text-align: center;<br />width: 100%;<br />float: none;<br />vertical-align: top;<br />display: inline-block;<br />padding-top: 30px;</li>
-</ul>
-</li>
-<li>Hacia
-<ul>
-<li>.block-social {<br />border-top: 0px solid #1a1a1a;<br />text-align: center;<br />width: 100%;<br />float: none;<br />vertical-align: top;<br />display: inline-block;<br />padding-top: 0px;</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>A&ntilde;adida la cuenta bancaria de pago de Xtreme-Blue, para pagos con transferencia bancaria</li>
-</ul>
-</li>
-</ul>
-<h3>Problemas conocidos</h3>
+	<h3>Problemas conocidos</h3>
 <ul>
 <ul>
 <li>Registrar la empresa en Culqi</li>
