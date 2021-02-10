@@ -1,28 +1,55 @@
 <!-- START CONTENT -->
 <h1>Change Log</h1>
-<h2><span style="color: #ff0000;">Version 0.2.7</span></h2>
-<h3>Fecha del cambio: 09/02/2021</h3>
+<h2><span style="color: #ff0000;">Version 0.2.5 - &gt; 0.2.8</span></h2>
+<h3>Fecha del cambio: 10/02/2021</h3>
 <ul>
 <li style="list-style-type: none;">
 <ul>
-	<li>modificar el orden del catalogo</li>
-	<li>Instalado plugin para verificacion de edad</li>
-	<li>Modificado el codigo 6738&lt;/
-		<ul>
-			<li>display: inline-block;<br />float: unset;<br />padding: 10px 15px;<br />>text-align: left;<br />vertical-align: top;<br />width: 300px;</li>
-		</ul>
-		</li>
-	<li>Hacia
-		<ul>
-			<li>display: inline-block;<br />>float: unset;<br />padding: 10px 15px;<br />text-align: left;<br />vertical-align: top;<br />width: 300px;</li>
-		</ul>
-	</li>
-	<li>Alineado el menu</li>
-	<li>puesto los numeros de vuelta en el carrusel</li>
-	<li>Quitado el guion de Xtreme-blue</li>
-	<li>añadida la linea (12471)<br /> display:none;</li>
-		<ul><li>para eliminar los titulos de las categorias</ul></li>
+<li>modificar el orden del catalogo</li>
+<li>Instalado plugin para verificacion de edad</li>
+<li>Modificado el codigo 6738&lt;/
+<ul>
+<li>display: inline-block;<br />float: unset;<br />padding: 10px 15px;<br />&gt;text-align: left;<br />vertical-align: top;<br />width: 300px;</li>
 </ul>
+</li>
+<li>Hacia
+<ul>
+<li>display: inline-block;<br />&gt;float: unset;<br />padding: 10px 15px;<br />text-align: left;<br />vertical-align: top;<br />width: 300px;</li>
+</ul>
+</li>
+<li>Alineado el menu</li>
+<li>puesto los numeros de vuelta en el carrusel</li>
+<li>Quitado el guion de Xtreme-blue copyright</li>
+<li>a&ntilde;adida la linea (12471)&nbsp;</li>
+<li>para eliminar los titulos de las categorias
+<ul>
+<li>display:none;</li>
+</ul>
+</li>
+<li>Cambiado horario de trabajo
+<ul>
+<li>9AM - 4PM</li>
+<li>9AM - 1PM</li>
+</ul>
+</li>
+<li>Proceso de compra el telefono ahora es obligatorio</li>
+<li>Arreglada algunas traducciones de la lista de deseos</li>
+<li>Agregado los terminos y condiciones en el registro, y la obligacion de poner correo</li>
+<li>A&ntilde;adida las redes sociales al tope de la pagina y modificado el codigo en&nbsp; theme.css(11068) para mejor margen y borrar la linea&nbsp;
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>.block-social {<br />border-top: 1px solid #1a1a1a;<br />text-align: center;<br />width: 100%;<br />float: none;<br />vertical-align: top;<br />display: inline-block;<br />padding-top: 30px;</li>
+</ul>
+</li>
+<li>Hacia
+<ul>
+<li>.block-social {<br />border-top: 0px solid #1a1a1a;<br />text-align: center;<br />width: 100%;<br />float: none;<br />vertical-align: top;<br />display: inline-block;<br />padding-top: 0px;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>A&ntilde;adida la cuenta bancaria de pago de Xtreme-Blue, para pagos con transferencia bancaria</li>
 </ul>
 </li>
 </ul>
@@ -33,61 +60,11 @@
 <li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
 <li>Puntos al banner (si es que se puede)</li>
 <li>Cambiar los banners superior</li>
-<li>Poner las redes sociales arriba</li>
-<li>About US, Foto de cava y poner el texto en español</li>
+<li>About US, Foto de cava y poner el texto en espa&ntilde;ol</li>
 <li>Libro de reclamaciones</li>
-<li>Cambiar horario y foto de informacion de tienda 
-	<ul>
-		<li>9AM - 4PM</li>
-		<li>9AM - 1PM</li>
-	</ul>
-</li>
-
 <li>Tratar de hacer promociones de manera diferente</li>
-<li>traducciones de la lista de deseos</li>
 <li>condiciones generales y de confidencialidad</li>
-<li>Proceso de compra el telefono tiene que ser obligatorio</li>
-<li>Dirección Complementaria Poner referencia</li>
-</ul>
-</ul>
-<h2><span style="color: #ff0000;">Version 0.2.6</span></h2>
-<h3>Fecha del cambio: 09/02/2021</h3>
-<ul>
-<li style="list-style-type: none;">
-<ul>
-	
-</ul>
-</li>
-</ul>
-<h3>Problemas conocidos</h3>
-<ul>
-<ul>
-<li>Registrar la empresa en Culqi</li>
-<li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
-<li>Carrusel Ponerle puntos para cambiar las imagenes</li>
-<li>Puntos al banner (si es que se puede) si no queda con numeros</li>
-<li>Cambiar los banners superior</li>
-<li>Poner las redes sociales arriba</li>
-<li>About US, Foto de cava y poner el texto en español</li>
-<li>Exigir mayoria de edad en la pagina</li>
-<li>Libro de reclamaciones</li>
-<li>© - Xtreme-Blue todos los derechos reservados. <- quitar el guion</li>
-
-<li>Cambiar horario y foto de informacion de tienda 
-	<ul>
-		<li>9AM - 4PM</li>
-		<li>9AM - 1PM</li>
-	</ul>
-</li>
-
-<li>Tratar de hacer promociones de manera diferente</li>
-<li>modificar el orden del catalogo</li>
-<li>Borrar nombre de hacienda en araucano</li>
-
-<li>traducciones de la lista de deseos</li>
-<li>condiciones generales y de confidencialidad</li>
-<li>Proceso de compra el telefono tiene que ser obligatorio</li>
-<li>Dirección Complementaria Poner referencia</li>
+<li>Direcci&oacute;n Complementaria Poner referencia</li>
 </ul>
 </ul>
 <h2><span style="color: #ff0000;">Version 0.2.5</span></h2>
