@@ -5,27 +5,27 @@
 <ul>
 <li style="list-style-type: none;">
 <ul>
-<ul>
-<li>Agregado terminos y condiciones(Beta)</li>
-<li>A&ntilde;adido terminos de envio(Beta)</li>
-<li>Arreglado el menu de inicio de seccion, ya no hay partes en negrita y otras no.</li>
-<li>Registro de Envio modificado, Ya pide DNI obligatorio y Ruc (Opcional)</li>
-<li>About US, Texto en espa&ntilde;ol</li>
+	<ul>
+		<li>Agregado terminos y condiciones(Beta)</li>
+		<li>A&ntilde;adido terminos de envio(Beta)</li>
+		<li>Arreglado el menu de inicio de seccion, ya no hay partes en negrita y otras no.</li>
+		<li>Registro de Envio modificado, Ya pide DNI obligatorio y Ruc (Opcional)</li>
+		<li>About US, Texto en espa&ntilde;ol</li>
+	</ul>
 </ul>
-</ul>
-<h3>Problemas conocidos</h3>
+	<h3>Problemas conocidos</h3>
 <ul>
-<ul>
-<ul>
-<li>Registrar la empresa en Culqi</li>
-<li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
-<li>Puntos al banner (si es que se puede)</li>
-<li>Cambiar los banners superior</li>
-<li>En About US poner Foto de cava&nbsp;</li>
-<li>Libro de reclamaciones</li>
-<li>Tratar de hacer promociones de manera diferente</li>
-</ul>
-</ul>
+	<ul>
+		<ul>
+		<li>Registrar la empresa en Culqi</li>
+		<li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
+		<li>Puntos al banner (si es que se puede)</li>
+		<li>Cambiar los banners superior</li>
+		<li>En About US poner Foto de cava&nbsp;</li>
+		<li>Libro de reclamaciones</li>
+		<li>Tratar de hacer promociones de manera diferente</li>
+		</ul>
+	</ul>
 </ul>
 </li>
 </ul>
@@ -84,15 +84,15 @@
 	<h3>Problemas conocidos</h3>
 <ul>
 <ul>
-<li>Registrar la empresa en Culqi</li>
-<li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
-<li>Puntos al banner (si es que se puede)</li>
-<li>Cambiar los banners superior</li>
-<li>About US, Foto de cava y poner el texto en espa&ntilde;ol</li>
-<li>Libro de reclamaciones</li>
-<li>Tratar de hacer promociones de manera diferente</li>
-<li>condiciones generales y de confidencialidad</li>
-<li>Direcci&oacute;n Complementaria Poner referencia</li>
+		<li>Registrar la empresa en Culqi</li>
+		<li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
+		<li>Puntos al banner (si es que se puede)</li>
+		<li>Cambiar los banners superior</li>
+		<li>About US, Foto de cava y poner el texto en espa&ntilde;ol</li>
+		<li>Libro de reclamaciones</li>
+		<li>Tratar de hacer promociones de manera diferente</li>
+		<li>condiciones generales y de confidencialidad</li>
+		<li>Direcci&oacute;n Complementaria Poner referencia</li>
 </ul>
 </ul>
 <h2><span style="color: #ff0000;">Version 0.2.5</span></h2>
