@@ -12,7 +12,7 @@
 		<li>Registro de Envio modificado, Ya pide DNI obligatorio y Ruc (Opcional)</li>
 		<li>About US, Texto en espa&ntilde;ol</li>
 		<li>Ahora los productos del catalogo se muestran por precio desde el menor al mayor de forma ascendente</li>
-		<li>borrada la seccion de Blend en vinos rosados</li>
+		<li>Borrada la seccion de Blend en vinos rosados</li>
 	</ul>
 </ul>
 	<h3>Problemas conocidos</h3>
