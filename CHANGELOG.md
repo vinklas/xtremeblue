@@ -37,17 +37,16 @@
 <ul>
 	<li>modificar el orden del catalogo</li>
 	<li>Instalado plugin para verificacion de edad</li>
-	<li>Modificado el codigo 6738&lt;/
+	<li>Modificado el codigo 6738& para alinear el menu</li>
 		<ul>
 		<li>display: inline-block;<br />float: unset;<br />padding: 10px 15px;<br />&gt;text-align: left;<br />vertical-align: top;<br />width: 300px;</li>
 		</ul>
 	</li>
 	<li>Hacia
 		<ul>
-		<li>display: inline-block;<br />&gt;float: unset;<br />padding: 10px 15px;<br />text-align: left;<br />vertical-align: top;<br />width: 300px;</li>
+		<li>display: inline-block;<br />&gt;float: unset;<br />padding: 10px 15px;<br />text-align: left;<br />vertical-align: top;<br />width: 240px;</li>
 		</ul>
 	</li>
-	<li>Alineado el menu</li>
 	<li>puesto los numeros de vuelta en el carrusel</li>
 	<li>Quitado el guion de Xtreme-blue copyright</li>
 	<li>a&ntilde;adida la linea (12471)&nbsp; para eliminar los titulos de las categorias </li>
