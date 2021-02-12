@@ -36,7 +36,7 @@
 <ul>
 <li style="list-style-type: none;">
 <ul>
-	<li>modificar el orden del catalogo</li>
+	<li>modificado el orden del catalogo</li>
 	<li>Instalado plugin para verificacion de edad</li>
 	<li>Modificado el codigo 6738& para alinear el menu</li>
 		<ul>
