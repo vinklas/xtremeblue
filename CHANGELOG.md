@@ -5,6 +5,7 @@
 		<li>Modificado el fondo de la verificacion de edad y traducido el texto a español</li>
 		<li>Modificado el CMSBanner ahora las imagenes te llevan a las paginas de las hacienda</li>
 		<li>Quitado el plugin de Culqi dado que no se puede usar por ser pagina de licores</li>
+		<li>
 </ul>
 	<h3>Problemas conocidos</h3>
 <ul>
@@ -14,6 +15,7 @@
 		<li>En About US poner Foto de cava&nbsp;</li>
 		<li>Libro de reclamaciones</li>
 		<li>Tratar de hacer promociones de manera diferente</li>
+		<li>Mover cantidad de stock, para arriba</li>
 	</ul>
 </ul>
 <h2><span style="color: #ff0000;">Version 0.2.9</span></h2>
