@@ -4,6 +4,7 @@
 <ul>
 		<li>Modificado el fondo de la verificacion de edad y traducido el texto a español</li>
 		<li>Modificado el CMSBanner ahora las imagenes te llevan a las paginas de las hacienda</li>
+		<li>Quitado el plugin de Culqi dado que no se puede usar por ser pagina de licores</li>
 </ul>
 	<h3>Problemas conocidos</h3>
 <ul>
