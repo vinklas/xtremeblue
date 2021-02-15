@@ -8,20 +8,11 @@
 	<h3>Problemas conocidos</h3>
 <ul>
 	<ul>
-		<li>Registrar la empresa en Culqi</li>
 		<li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
 		<li>Puntos al banner (si es que se puede)</li>
-		<li>Cambiar los banners superior</li>
 		<li>En About US poner Foto de cava&nbsp;</li>
 		<li>Libro de reclamaciones</li>
 		<li>Tratar de hacer promociones de manera diferente</li>
-		<li>Modificar el CMSBanner para que te envie a los productos mostrado</li>
-		<li>Modificar el carrusel al siguiente orden</li>	
-			<ul>
-				<li>Promocion sorgin</li>
-				<li>Chacayes</li>
-				<li>Delivery</li>
-			</ul>	
 	</ul>
 </ul>
 <h2><span style="color: #ff0000;">Version 0.2.9</span></h2>
