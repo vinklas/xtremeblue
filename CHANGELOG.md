@@ -2,16 +2,12 @@
 <h1>Change Log</h1>
 <h2><span style="color: #ff0000;">Version 0.3.0</span></h2>.
 <ul>
-	<ul>
 		<li>Modificado el fondo de la verificacion de edad y traducido el texto a español</li>
 		<li>Modificado el CMSBanner ahora las imagenes te llevan a las paginas de las hacienda</li>
-		
-	</ul>
 </ul>
 	<h3>Problemas conocidos</h3>
 <ul>
 	<ul>
-		<ul>
 		<li>Registrar la empresa en Culqi</li>
 		<li>Arreglar el Menu que de desaparece cuando esta en el medio de la pagina</li>
 		<li>Puntos al banner (si es que se puede)</li>
@@ -25,10 +21,9 @@
 				<li>Promocion sorgin</li>
 				<li>Chacayes</li>
 				<li>Delivery</li>
-			</ul>
-				
-		</ul>
+			</ul>	
 	</ul>
+</ul>
 <h2><span style="color: #ff0000;">Version 0.2.9</span></h2>
 <h3>Fecha del cambio: 11/02/2021</h3>
 <ul>
