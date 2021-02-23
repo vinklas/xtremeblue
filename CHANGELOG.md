@@ -1,5 +1,23 @@
 <!-- START CONTENT -->
 <h1>Change Log</h1>
+
+<h2><span style="color: #ff0000;">Version 0.3.1</span></h2>.
+<h3>Fecha del cambio: 23/02/2021</h3>
+<li>Basado en el WORD enviado por Mackling los cambios hechos se haran mencion en el siguiente changelog<li>
+	<ul>
+		<li>1) Productos Similares - ya no hay texto</li>
+		<li>4) El plugin de verificacion de EDAD se cambio el texto, no se puede imitar almendariz por el momento</li>
+		<li>5) SLL ya esta activado</li>
+		<li>10) Movido y ahora tiene mas espacio</li>
+		<li>14) Cambiado a Año por Añada</li>
+		<li>18) Cambiado los nombres de las bodegas por LURTON – HACIENDA ARAUCANO - LURTON – PIEDRA NEGRA</li>
+		<li>19) Cambiado de posicion</li>
+		<li>23) Cambiado compra ya por lo quiero</li>
+		<li>30) cambiado de posicion</li>
+		<li>32) Tratamiento cambiado por Titulo y Aceptar los terminos en español</li>
+		<li>46) cambiado verifica por pasar por caja</li>
+		<li>57) Quitado el nombre vinos</li>
+	</ul>
 <h2><span style="color: #ff0000;">Version 0.3.0</span></h2>.
 <ul>
 		<li>Modificado el fondo de la verificacion de edad y traducido el texto a español</li>
